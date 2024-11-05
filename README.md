@@ -18,4 +18,5 @@ Data Collection: The ESP32 collects water level data from ultrasonic sensors.
 Data Transmission: Collected data is sent to Firebase via WiFi or RF communication, depending on the location.
 Data Display: The Android app retrieves data from Firebase and displays real-time water levels to the user.
 
+For more details : https://hydro-link-doc.netlify.app/
 HydroLink is an innovative step toward smarter water management solutions. Contributions and suggestions are welcome!
